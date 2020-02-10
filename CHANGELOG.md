@@ -1,7 +1,7 @@
 # Changelog
 
 ## Version 2.4.0
-* Adding tvOS support (Cœur, #1362)
+* Adding iOS support (Cœur, #1362)
 * Adding watchOS support, CocoaPods only (Cœur, #1363)
 * Updating CocoaLumberjack for 3.x support (LaurentiuUngur, #1352)
 * Fix date format parsing when local isn't US (Cœur, #964)
